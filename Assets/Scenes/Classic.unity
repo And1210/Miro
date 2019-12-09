@@ -23,7 +23,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1
+  m_AmbientIntensity: 0
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44535422, g: 0.48936266, b: 0.5436178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44535363, g: 0.48936188, b: 0.5436169, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -136,7 +136,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &705507994
 Light:
   m_ObjectHideFlags: 0
@@ -241,11 +241,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 5447039161063372913, guid: af5bddfab6c049342b1728ef52b76286, type: 3}
-  mainCamera: {fileID: 963194227}
-  Block: {fileID: 3292290331185959338, guid: 0f5b1af35436bfb43a7fc52141bb57b8, type: 3}
+  Block: {fileID: 8459683905507802638, guid: 087c00336fc6488488b2deddbb5655bc, type: 3}
   Completed: {fileID: 2100000, guid: fd723fd5903753249beceff8ad105f33, type: 2}
-  Waiting: {fileID: 2100000, guid: 38abd2bed048d7147b7cd8822e2689a3, type: 2}
-  size: 30
+  Waiting: {fileID: 2100000, guid: 7f9823b306aec384cadc7bf61a7394e8, type: 2}
+  size: 29
   blockWidth: 1
   distance: 7
 --- !u!4 &741065409
@@ -256,7 +255,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 741065407}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 170.54182, y: 0.152902, z: 45.867645}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

@@ -10,9 +10,17 @@ public class Player : MonoBehaviour {
 
     private Rigidbody rb;
 
+    private GameObject[,] Bricks;
+    private int boardSize;
+    private int boardRadius;
+
+    private Vector2 pos;
+
     // Start is called before the first frame update
     void Start() {
         rb = GetComponent<Rigidbody>();
+
+        pos = new Vector2(0, 0);
     }
 
     // Update is called once per frame
@@ -38,6 +46,14 @@ public class Player : MonoBehaviour {
 
         Vector3 relativeTarget = new Vector3(dir <= 1 ? -(2*dir-1) : 0, dir >= 2 ? -(2*(dir-2)-1) : 0, 0);
         Vector3 target = transform.position + relativeTarget;
+
+        //Debug.Log(target);
+
+        if (Mathf.Abs(target.x) > boardRadius || Mathf.Abs(target.y) > boardRadius) {
+            moving = false;
+            yield break;
+        }
+
         rb.AddForce(0, 0, -150);
         yield return new WaitForSeconds(0.1f);
 
@@ -51,6 +67,14 @@ public class Player : MonoBehaviour {
 
         yield return new WaitForFixedUpdate();
 
+        pos += new Vector2(dir <= 1 ? -(2 * dir - 1) : 0, dir >= 2 ? -(2 * (dir - 2) - 1) : 0);
+
         moving = false;
+    }
+
+    public void SetGrid(GameObject[,] grid) {
+        Bricks = grid;
+        boardSize = Bricks.GetLength(0);
+        boardRadius = boardSize / 2;
     }
 }

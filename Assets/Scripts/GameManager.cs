@@ -29,12 +29,14 @@ public class GameManager : MonoBehaviour {
             for (int j = 0; j < size; j++) {
                 int row = (i-size/2)*blockWidth;
                 int col = (j-size/2)*blockWidth;
-                Bricks[i,j] = Instantiate(Block, new Vector3(row, col, distance), Quaternion.identity);
+                Bricks[i, j] = Instantiate(Block, new Vector3(row, col, distance), Quaternion.identity);
+                Bricks[i, j].GetComponent<MeshRenderer>().material = Waiting;
             }
         }
 
         //Spawning in the player
         player = Instantiate(Player, new Vector3(0, 0, distance - blockWidth - 0.5f), Quaternion.identity);
+        player.GetComponent<Player>().SetGrid(Bricks);
     }
 
     void Update() {
