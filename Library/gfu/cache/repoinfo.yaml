@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-12-08T21:41:02.194-05:00
-  initializedAtString: 2019-12-08T21:37:05.616-05:00
+  lastUpdatedAtString: 2019-12-12T02:44:27.864-05:00
+  initializedAtString: 2019-12-11T19:26:56.767-05:00
   currentGitRemote:
     name: origin
-    url: https://github.com/And1210/Miro.git
+    url: https://github.com/And1210/Miro
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/And1210/Miro.git
+      url: https://github.com/And1210/Miro
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/And1210/Miro.git
+    url: https://github.com/And1210/Miro
   currentHead: 

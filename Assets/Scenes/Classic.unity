@@ -136,7 +136,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &705507994
 Light:
   m_ObjectHideFlags: 0
@@ -245,6 +245,7 @@ MonoBehaviour:
   Completed: {fileID: 2100000, guid: fd723fd5903753249beceff8ad105f33, type: 2}
   Waiting: {fileID: 2100000, guid: 38abd2bed048d7147b7cd8822e2689a3, type: 2}
   Target: {fileID: 2100000, guid: 5d80101d08a4db640ba72f9d380d9558, type: 2}
+  Pointer: {fileID: 2100000, guid: 283c336271bc68848b4af90c3257f843, type: 2}
   size: 29
   blockWidth: 1
   distance: 7

@@ -13,396 +13,648 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-08T22:56:02.974-05:00
-  initializedAtString: 2019-12-08T21:38:13.724-05:00
+  lastUpdatedAtString: 2019-12-12T02:54:38.803-05:00
+  initializedAtString: 2019-12-11T19:26:57.388-05:00
   entries:
-  - path: Assets\Materials\Arrow.mat
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Materials\Arrow.mat
-    projectPath: Assets\Materials\Arrow.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Arrow.mat.meta
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Materials\Arrow.mat.meta
-    projectPath: Assets\Materials\Arrow.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Player.mat
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Materials\Player.mat
-    projectPath: Assets\Materials\Player.mat
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Programming\Unity\Miro\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Materials\Target.mat
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Materials\Target.mat
-    projectPath: Assets\Materials\Target.mat
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Programming\Unity\Miro\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Target.mat.meta
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Materials\Target.mat.meta
-    projectPath: Assets\Materials\Target.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Player.prefab
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Prefabs\Player.prefab
-    projectPath: Assets\Prefabs\Player.prefab
+  - path: Assets\Materials\Arrow.mat
+    fullPath: D:\Programming\Unity\Miro\Assets\Materials\Arrow.mat
+    projectPath: Assets\Materials\Arrow.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scenes\Classic.unity
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Scenes\Classic.unity
+    fullPath: D:\Programming\Unity\Miro\Assets\Scenes\Classic.unity
     projectPath: Assets\Scenes\Classic.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scripts\Arrow.cs
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Scripts\Arrow.cs
+    fullPath: D:\Programming\Unity\Miro\Assets\Scripts\Arrow.cs
     projectPath: Assets\Scripts\Arrow.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Arrow.cs.meta
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Scripts\Arrow.cs.meta
-    projectPath: Assets\Scripts\Arrow.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\GameManager.cs
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Scripts\GameManager.cs
+    fullPath: D:\Programming\Unity\Miro\Assets\Scripts\GameManager.cs
     projectPath: Assets\Scripts\GameManager.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sprites\Arrow.png
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Sprites\Arrow.png
-    projectPath: Assets\Sprites\Arrow.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Sprites\Arrow.png.meta
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Sprites\Arrow.png.meta
+    fullPath: D:\Programming\Unity\Miro\Assets\Sprites\Arrow.png.meta
     projectPath: Assets\Sprites\Arrow.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\Target.png
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Sprites\Target.png
-    projectPath: Assets\Sprites\Target.png
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Programming\Unity\Miro\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\Target.png.meta
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Assets\Sprites\Target.png.meta
-    projectPath: Assets\Sprites\Target.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ArtifactDB
+    fullPath: D:\Programming\Unity\Miro\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\Artifacts\Legacy\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\Artifacts\Legacy\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e
     projectPath: Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e.info
-    projectPath: Library\Artifacts\Legacy\1f\1fbd210e521c9dc4ab6869d46007b43e.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843
-    projectPath: Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843.info
     projectPath: Library\Artifacts\Legacy\28\283c336271bc68848b4af90c3257f843.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\29\29e462d666bedde4398f655a18e450c2.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\29\29e462d666bedde4398f655a18e450c2.info
+    projectPath: Library\Artifacts\Legacy\29\29e462d666bedde4398f655a18e450c2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845
     projectPath: Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845.info
     projectPath: Library\Artifacts\Legacy\2a\2afb1b4a8c7802047a0a650d718a8845.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558
-    projectPath: Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\38\38abd2bed048d7147b7cd8822e2689a3.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\38\38abd2bed048d7147b7cd8822e2689a3.info
+    projectPath: Library\Artifacts\Legacy\38\38abd2bed048d7147b7cd8822e2689a3.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\Artifacts\Legacy\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558.info
     projectPath: Library\Artifacts\Legacy\5d\5d80101d08a4db640ba72f9d380d9558.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286
-    projectPath: Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\7f\7f9823b306aec384cadc7bf61a7394e8.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\7f\7f9823b306aec384cadc7bf61a7394e8.info
+    projectPath: Library\Artifacts\Legacy\7f\7f9823b306aec384cadc7bf61a7394e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286.info
+    projectPath: Library\Artifacts\Legacy\af\af5bddfab6c049342b1728ef52b76286.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\Artifacts\Legacy\bf\bfdfe1df4d86aba43aada114efa160d3
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\bf\bfdfe1df4d86aba43aada114efa160d3
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\bf\bfdfe1df4d86aba43aada114efa160d3
     projectPath: Library\Artifacts\Legacy\bf\bfdfe1df4d86aba43aada114efa160d3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\Artifacts\Legacy\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\Legacy\e3\e362f7271f952074b8bd2ee06266d494.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\e3\e362f7271f952074b8bd2ee06266d494.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\e3\e362f7271f952074b8bd2ee06266d494.info
     projectPath: Library\Artifacts\Legacy\e3\e362f7271f952074b8bd2ee06266d494.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e
-    projectPath: Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e.info
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e.info
     projectPath: Library\Artifacts\Legacy\ed\ed622b88f59aac444bd999f1ad04695e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\Artifacts\Legacy\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\Legacy\fd\fd723fd5903753249beceff8ad105f33.info
+    fullPath: D:\Programming\Unity\Miro\Library\Artifacts\Legacy\fd\fd723fd5903753249beceff8ad105f33.info
+    projectPath: Library\Artifacts\Legacy\fd\fd723fd5903753249beceff8ad105f33.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: D:\Programming\Unity\Miro\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\branches.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Programming\Unity\Miro\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\1\1477a32d7e152d35a7fa23896b2738db.bin
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ShaderCache\1\1477a32d7e152d35a7fa23896b2738db.bin
-    projectPath: Library\ShaderCache\1\1477a32d7e152d35a7fa23896b2738db.bin
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ugui.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.ugui.dll
+    projectPath: Library\ScriptAssemblies\Unity.ugui.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ugui.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.ugui.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ugui.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ugui.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.ugui.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ugui.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ugui.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.ugui.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ugui.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\Programming\Unity\Miro\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\09ae33f13ef149ec9b8d3ae4ec448ce0.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\0\09ae33f13ef149ec9b8d3ae4ec448ce0.bin
+    projectPath: Library\ShaderCache\0\09ae33f13ef149ec9b8d3ae4ec448ce0.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\5\5bac10865472ddb91b54f0716d0ae03b.bin
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ShaderCache\5\5bac10865472ddb91b54f0716d0ae03b.bin
-    projectPath: Library\ShaderCache\5\5bac10865472ddb91b54f0716d0ae03b.bin
+  - path: Library\ShaderCache\2\2678c2b5038c16508156182c209edc14.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\2\2678c2b5038c16508156182c209edc14.bin
+    projectPath: Library\ShaderCache\2\2678c2b5038c16508156182c209edc14.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\a\a4d8fe5e291e5c8b98b26cfa189e65dc.bin
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ShaderCache\a\a4d8fe5e291e5c8b98b26cfa189e65dc.bin
-    projectPath: Library\ShaderCache\a\a4d8fe5e291e5c8b98b26cfa189e65dc.bin
+  - path: Library\ShaderCache\2\2def39669f87c805c7f8842791b4e0c1.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\2\2def39669f87c805c7f8842791b4e0c1.bin
+    projectPath: Library\ShaderCache\2\2def39669f87c805c7f8842791b4e0c1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5aad87e046239e9ae98c88fd6c36de05.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\5\5aad87e046239e9ae98c88fd6c36de05.bin
+    projectPath: Library\ShaderCache\5\5aad87e046239e9ae98c88fd6c36de05.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\70f75b7db5cac30353f48bae19f07fa4.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\7\70f75b7db5cac30353f48bae19f07fa4.bin
+    projectPath: Library\ShaderCache\7\70f75b7db5cac30353f48bae19f07fa4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a603ef3f1fe17f2c52a30014b41f0959.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\a\a603ef3f1fe17f2c52a30014b41f0959.bin
+    projectPath: Library\ShaderCache\a\a603ef3f1fe17f2c52a30014b41f0959.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a67ed2619f8f4b23f794f774d3d74635.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\a\a67ed2619f8f4b23f794f774d3d74635.bin
+    projectPath: Library\ShaderCache\a\a67ed2619f8f4b23f794f774d3d74635.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\f\f0725da302a279ff119c0900a09b50a6.bin
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\ShaderCache\f\f0725da302a279ff119c0900a09b50a6.bin
-    projectPath: Library\ShaderCache\f\f0725da302a279ff119c0900a09b50a6.bin
+  - path: Library\ShaderCache\f\f855b9be68b08b9a4c49223dbff3244a.bin
+    fullPath: D:\Programming\Unity\Miro\Library\ShaderCache\f\f855b9be68b08b9a4c49223dbff3244a.bin
+    projectPath: Library\ShaderCache\f\f855b9be68b08b9a4c49223dbff3244a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Programming\Unity\Miro\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\SourceAssetDB
+    fullPath: D:\Programming\Unity\Miro\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: D:\Programming\Unity\Miro\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\9aee02-mainStage.json
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Library\StateCache\Hierarchy\9aee02-mainStage.json
+    fullPath: D:\Programming\Unity\Miro\Library\StateCache\Hierarchy\9aee02-mainStage.json
     projectPath: Library\StateCache\Hierarchy\9aee02-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\bdcde8-mainStage.json
+    fullPath: D:\Programming\Unity\Miro\Library\StateCache\SceneView\bdcde8-mainStage.json
+    projectPath: Library\StateCache\SceneView\bdcde8-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Miro.sln
+    fullPath: D:\Programming\Unity\Miro\Miro.sln
+    projectPath: Miro.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: D:\Programming\Unity\Miro\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\Programming\Unity\Miro\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Programming\Unity\Miro\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Programming\Unity\Miro\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\ProjectSettings\QualitySettings.asset
+    fullPath: D:\Programming\Unity\Miro\ProjectSettings\QualitySettings.asset
     projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\__Backupscenes\0.backup
+    fullPath: D:\Programming\Unity\Miro\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\ProcessJobs\e4472ff0cfdf9bcf0a67d0c495aa4534.bakert
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\ProcessJobs\e4472ff0cfdf9bcf0a67d0c495aa4534.bakert
+    fullPath: D:\Programming\Unity\Miro\Temp\ProcessJobs\e4472ff0cfdf9bcf0a67d0c495aa4534.bakert
     projectPath: Temp\ProcessJobs\e4472ff0cfdf9bcf0a67d0c495aa4534.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\Programming\Unity\Miro\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityLockfile
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-15551ff313b22c347bd8c7e3b5873319
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-15551ff313b22c347bd8c7e3b5873319
-    projectPath: Temp\UnityTempFile-15551ff313b22c347bd8c7e3b5873319
+  - path: Temp\UnityTempFile-0630e63d57d34cb4887a9dd048ffdadd
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-0630e63d57d34cb4887a9dd048ffdadd
+    projectPath: Temp\UnityTempFile-0630e63d57d34cb4887a9dd048ffdadd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1b4bbb6b514b29d4dbd5da8ef9176b35
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-1b4bbb6b514b29d4dbd5da8ef9176b35
-    projectPath: Temp\UnityTempFile-1b4bbb6b514b29d4dbd5da8ef9176b35
+  - path: Temp\UnityTempFile-1c021563afbaf7a4b86870425f9ac92d
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-1c021563afbaf7a4b86870425f9ac92d
+    projectPath: Temp\UnityTempFile-1c021563afbaf7a4b86870425f9ac92d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5176f930250cdd94189cede151806bbb
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-5176f930250cdd94189cede151806bbb
-    projectPath: Temp\UnityTempFile-5176f930250cdd94189cede151806bbb
+  - path: Temp\UnityTempFile-24c70623ae122a2499f4bdd9cc361d73
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-24c70623ae122a2499f4bdd9cc361d73
+    projectPath: Temp\UnityTempFile-24c70623ae122a2499f4bdd9cc361d73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-59a7178f5250ecf4c98eb82f855594b3
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-59a7178f5250ecf4c98eb82f855594b3
-    projectPath: Temp\UnityTempFile-59a7178f5250ecf4c98eb82f855594b3
+  - path: Temp\UnityTempFile-39b1bf67543763047b1a3aad0f6e3e89
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-39b1bf67543763047b1a3aad0f6e3e89
+    projectPath: Temp\UnityTempFile-39b1bf67543763047b1a3aad0f6e3e89
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5d205d17f9420fa408e0298ab53a85f1
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-5d205d17f9420fa408e0298ab53a85f1
-    projectPath: Temp\UnityTempFile-5d205d17f9420fa408e0298ab53a85f1
+  - path: Temp\UnityTempFile-43260bc2b3746e84881e997979a0b728
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-43260bc2b3746e84881e997979a0b728
+    projectPath: Temp\UnityTempFile-43260bc2b3746e84881e997979a0b728
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-67584593f4e8a8b4b9ea64f0763d765d
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-67584593f4e8a8b4b9ea64f0763d765d
-    projectPath: Temp\UnityTempFile-67584593f4e8a8b4b9ea64f0763d765d
+  - path: Temp\UnityTempFile-482afc4000125984e8a6527d5ddb226d
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-482afc4000125984e8a6527d5ddb226d
+    projectPath: Temp\UnityTempFile-482afc4000125984e8a6527d5ddb226d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-720ae0e99e1072c42a92582d070322f6
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-720ae0e99e1072c42a92582d070322f6
-    projectPath: Temp\UnityTempFile-720ae0e99e1072c42a92582d070322f6
+  - path: Temp\UnityTempFile-4a101bf56945fec43a98d3bdc3f0b1fc
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-4a101bf56945fec43a98d3bdc3f0b1fc
+    projectPath: Temp\UnityTempFile-4a101bf56945fec43a98d3bdc3f0b1fc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-83f2a4926529c724192d4ca1f93ebf5d
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-83f2a4926529c724192d4ca1f93ebf5d
-    projectPath: Temp\UnityTempFile-83f2a4926529c724192d4ca1f93ebf5d
+  - path: Temp\UnityTempFile-52911479e732bb245a67db97cb826adc
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-52911479e732bb245a67db97cb826adc
+    projectPath: Temp\UnityTempFile-52911479e732bb245a67db97cb826adc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8872d1e537e6b40408beefa8707b5dea
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-8872d1e537e6b40408beefa8707b5dea
-    projectPath: Temp\UnityTempFile-8872d1e537e6b40408beefa8707b5dea
+  - path: Temp\UnityTempFile-56671d4a652987046accdece868e9e3e
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-56671d4a652987046accdece868e9e3e
+    projectPath: Temp\UnityTempFile-56671d4a652987046accdece868e9e3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bd7da1217754db94da1faea416536520
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-bd7da1217754db94da1faea416536520
-    projectPath: Temp\UnityTempFile-bd7da1217754db94da1faea416536520
+  - path: Temp\UnityTempFile-61a2e5526d9b35a43a7ba4855e70e076
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-61a2e5526d9b35a43a7ba4855e70e076
+    projectPath: Temp\UnityTempFile-61a2e5526d9b35a43a7ba4855e70e076
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bdf8cc9f310e4464d8e4a13c8ec99b99
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-bdf8cc9f310e4464d8e4a13c8ec99b99
-    projectPath: Temp\UnityTempFile-bdf8cc9f310e4464d8e4a13c8ec99b99
+  - path: Temp\UnityTempFile-664c09aa807e05a4ea313d2bc50e2feb
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-664c09aa807e05a4ea313d2bc50e2feb
+    projectPath: Temp\UnityTempFile-664c09aa807e05a4ea313d2bc50e2feb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-eaff37f72c7797e47bd71b3f0892d860
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-eaff37f72c7797e47bd71b3f0892d860
-    projectPath: Temp\UnityTempFile-eaff37f72c7797e47bd71b3f0892d860
+  - path: Temp\UnityTempFile-6b0880eaaa298e74cabf1c0a84440635
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-6b0880eaaa298e74cabf1c0a84440635
+    projectPath: Temp\UnityTempFile-6b0880eaaa298e74cabf1c0a84440635
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f08abd4f3f4b474499b52eba028172ad
-    fullPath: C:\Users\amf7c\Programming\Unity\Miro\Temp\UnityTempFile-f08abd4f3f4b474499b52eba028172ad
-    projectPath: Temp\UnityTempFile-f08abd4f3f4b474499b52eba028172ad
+  - path: Temp\UnityTempFile-87db11e0385e3224996dd76f13629da2
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-87db11e0385e3224996dd76f13629da2
+    projectPath: Temp\UnityTempFile-87db11e0385e3224996dd76f13629da2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94237b4f8fed9514caac12b09e78f854
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-94237b4f8fed9514caac12b09e78f854
+    projectPath: Temp\UnityTempFile-94237b4f8fed9514caac12b09e78f854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d544793bbb160364c9cb4205d436df56
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-d544793bbb160364c9cb4205d436df56
+    projectPath: Temp\UnityTempFile-d544793bbb160364c9cb4205d436df56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d74c5a713a547fe4a815b057829889fc
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-d74c5a713a547fe4a815b057829889fc
+    projectPath: Temp\UnityTempFile-d74c5a713a547fe4a815b057829889fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff0d8e2271c51df44821187ca305487f
+    fullPath: D:\Programming\Unity\Miro\Temp\UnityTempFile-ff0d8e2271c51df44821187ca305487f
+    projectPath: Temp\UnityTempFile-ff0d8e2271c51df44821187ca305487f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
